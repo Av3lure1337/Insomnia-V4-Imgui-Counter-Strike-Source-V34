@@ -1,6 +1,6 @@
 # Insomnia V4 w/ ImGui
 
-![inso](preview.png)
+![inso](Preview.jpg)
 
 🇷🇺: Поговоривши с одним человеком, я принял решение залить исходный код чита Insomnia (v4) с настроеным ImGui. 
 
